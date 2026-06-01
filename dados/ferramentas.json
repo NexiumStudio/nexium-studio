@@ -13,5 +13,13 @@
     "descricao": "Ferramenta para criar artes, apresentações e posts.",
     "botao": "Acessar",
     "link": "https://www.canva.com"
-  }
+  },
+
+  {
+  "nome": "Perplexity",
+  "categoria": "Pesquisa",
+  "descricao": "Pesquisa inteligente com respostas e fontes.",
+  "botao": "Acessar",
+  "link": "https://www.perplexity.ai"
+}
 ]
