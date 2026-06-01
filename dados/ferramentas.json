@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "ChatGPT",
+    "categoria": "IA",
+    "descricao": "Assistente de IA para estudos.",
+    "botao": "Acessar",
+    "link": "https://chatgpt.com"
+  },
+
+  {
+    "nome": "Canva",
+    "categoria": "Design",
+    "descricao": "Ferramenta para criar artes, apresentações e posts.",
+    "botao": "Acessar",
+    "link": "https://www.canva.com"
+  }
+]
