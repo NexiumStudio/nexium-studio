@@ -1,4 +1,3 @@
-// Script da nexium Studio
 const elementos = document.querySelectorAll("header, section, footer");
 
 elementos.forEach((elemento) => {
